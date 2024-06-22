@@ -1,6 +1,10 @@
 # React Coding Tips
 
+### Read and give is a star if you find it important
+
 Welcome to the **React Coding Tips** repository! Here, you'll find a collection of concise, creative, and elegant React coding tips designed to help you write cleaner, more efficient, and more readable React code.
+
+
 
 ## Table of Contents
 
